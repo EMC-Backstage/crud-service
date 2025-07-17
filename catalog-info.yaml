@@ -4,8 +4,8 @@ metadata:
   name: spring-boot
   description: web services with spring boot
   tags:
-    - spring boot
-    - web services
+    - spring-boot
+    - web-services
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/spring-boot
