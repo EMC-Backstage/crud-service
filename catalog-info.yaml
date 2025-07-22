@@ -12,5 +12,5 @@ metadata:
 spec:
   type: framework
   lifecycle: development
-  owner: EMC-Backstage
+  owner: frontend-team
   system: web services
