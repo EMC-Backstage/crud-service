@@ -10,7 +10,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/spring-boot
 spec:
-  type: framework
+  type: service
   lifecycle: development
   owner: frontend-team
-  system: web services
+  system: web-platform
