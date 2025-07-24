@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: spring-boot-app1
+  name: crud-service
   description: web services with spring boot
   tags:
     - spring-boot
